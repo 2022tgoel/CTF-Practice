@@ -21,7 +21,7 @@
 #include <unistd.h>
 
 #define BANNER \
-  "Welcome to " LEVELNAME ", brought to you by https://exploit.education"
+  "Welcome to, brought to you by https://exploit.education"
 
 struct auth {
   char name[32];

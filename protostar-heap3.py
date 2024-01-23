@@ -1,0 +1,5 @@
+## Useful info
+# x/15xg 0x00005555555592a0-0x30
+# addresses of a, b, and c
+# 0x7fffffffd928: 0x00005555555592a0      0x00005555555592d0
+# 0x7fffffffd938: 0x0000555555559300
